@@ -3,4 +3,4 @@ ETL Pipelines in SSIS
 Implemented Star Schema 
 Implented Slowly Changing Dimensions (type 1, type 2)
 Implemented Change Data Capture (CDC)
-Error Handling in SSI
+Error Handling in SSIS
